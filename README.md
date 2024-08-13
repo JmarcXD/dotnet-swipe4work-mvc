@@ -55,12 +55,23 @@
 - `FormNewJobOfferPage()`
 - `FormModificationJobOfferPage()`
 - `AdministrationListJobOffersPage()`
+- `ListCandidatesOfJobOfferPage()`
 - `CreateNewJobOffer()` POST
 - `UpdateJobsOffer()` POST
 - `DeleteJobOffer()` POST
 
+## FeedbackController
+- `FormNewFeedbackPage()`
+- `CreateNewFeedBack()` POST
+
+## QuestionsAndAnswerController
+- `QuestionAndAnswerPage()`
+- `CreateNewQuestion()` POST
+- `CreateNewAnswer()` POST
+
 ## ProfileController
-- `ProfileUserPage()`
+- `ProfileOwnerUserPage()`
+- `ViewProfileUserPage()`
 - `EditUserPersonalDataPage()`
 - `UpdateUserPersonalData()` POST
 
