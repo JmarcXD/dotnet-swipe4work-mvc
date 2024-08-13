@@ -1,5 +1,7 @@
 # Swipe4Work
 
+---
+
 ## HomeController
 - `TeamDeveloperPage()`
 - `ContactFormPage()`
@@ -7,6 +9,8 @@
 - `HomePage()`
 - `HomeCandidatePage()`
 - `HomeBusinessRecruiterPage()`
+
+---
 
 ## AuthController
 - `LoginPage()`
@@ -17,6 +21,8 @@
 - `AuthenticateUser()` POST
 - `RegisterUser()` POST
 
+---
+
 ## HardSoftSkillsController
 - `ListHardSoftSkillsPage()`
 - `CreateNewSoftSkill()` POST
@@ -26,11 +32,15 @@
 - `UpdateSoftSkill()` POST
 - `UpdateHardSkill()` POST
 
+---
+
 ## InterestController
 - `ListInterestPage()`
 - `CreateInterest()` POST
 - `DeleteInterest()` POST
 - `UpdateInterest()` POST
+
+---
 
 ## PreferenceController
 - `ListPreferencePage()`
@@ -38,8 +48,12 @@
 - `DeletePreference()` POST
 - `UpdatePreference()` POST
 
+---
+
 ## JobOffersController
 - `MatchesListPage()`
+
+---
 
 ## Candidate
 - `CardsOfJobsOffersPage()`
@@ -51,6 +65,8 @@
 - `DislikeJobOffer()` POST
 - `SaveJobOffer()` POST
 
+---
+
 ## Recruiter Business
 - `FormNewJobOfferPage()`
 - `FormModificationJobOfferPage()`
@@ -60,14 +76,20 @@
 - `UpdateJobsOffer()` POST
 - `DeleteJobOffer()` POST
 
+---
+
 ## FeedbackController
 - `FormNewFeedbackPage()`
 - `CreateNewFeedBack()` POST
+
+---
 
 ## QuestionsAndAnswerController
 - `QuestionAndAnswerPage()`
 - `CreateNewQuestion()` POST
 - `CreateNewAnswer()` POST
+
+---
 
 ## ProfileController
 - `ProfileOwnerUserPage()`
@@ -75,12 +97,16 @@
 - `EditUserPersonalDataPage()`
 - `UpdateUserPersonalData()` POST
 
+---
+
 ## ExperienceController
 - `FormNewExperiencePage()`
 - `FormEditExperiencePage()`
 - `CreateNewExperience()` POST
 - `UpdateExperience()` POST
 - `DeleteExperience()` POST
+
+---
 
 ## EducationController
 - `FormNewEducationPage()`
